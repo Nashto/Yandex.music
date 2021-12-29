@@ -12,10 +12,10 @@ Hypotheses:
 * Moscow and St. Petersburg prefer different genres of music. In Moscow, pop music is more often listened to, in St. Petersburg — Russian rap.
 
 Column Description:
-userID - user ID;
-Track — the name of the track;
-artist — artist's name;
-genre — the name of the genre;
-City — the user's city;
-time — the start time of listening;
-Day — the day of the week.
+* userID - user ID;
+* Track — the name of the track;
+* artist — artist's name;
+* genre — the name of the genre;
+* City — the user's city;
+* time — the start time of listening;
+* Day — the day of the week.
