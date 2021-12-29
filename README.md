@@ -3,7 +3,8 @@ Project Description
 The comparison of Moscow and St. Petersburg is surrounded by myths:
 * Moscow is a megapolis, subject to the rigid rhythm of the working week;
 * Petersburg is a city of peculiar culture, unlike Moscow.
-Some myths reflect reality. Others are empty stereotypes. Business must distinguish the former from the latter in order to make rational decisions. Using real Yandex.Music data, you will test hypotheses and compare the behavior of users of the two capitals.
+
+Some myths reflect reality. Others are empty stereotypes. Business must distinguish the former from the latter in order to make rational decisions. 
 
 Hypotheses:
 * User activity depends on the day of the week. Moreover, in Moscow and St. Petersburg, this manifests itself in different ways.
