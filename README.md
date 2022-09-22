@@ -11,6 +11,8 @@ Hypotheses:
 * On Monday morning, some genres of music prevail in Moscow, and others in St. Petersburg. This is also true for Friday night.
 * Moscow and St. Petersburg prefer different genres of music. In Moscow, pop music is more often listened to, in St. Petersburg — Russian rap.
 
+Goal of rhe project is to analyze this hypotheses.
+
 Column Description:
 * userID - user ID;
 * Track — the name of the track;
